@@ -12,9 +12,6 @@ As a current Computer Science Engineering (CSE) student, I’m passionate about 
 * 🤝  I'm open to collaborating on Java related projects
 * ⚡  Embracing Computer Science, Your Friendly Neighborhood Coder
 
-<a href="https://www.github.com/sanjai104" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sanjai104?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -39,8 +36,4 @@ src="https://img.shields.io/github/followers/sanjai104?logo=github&style=for-the
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/sanjai104/Project_NM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjai104&repo=Project_NM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sanjai104/CODSOFT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjai104&repo=CODSOFT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sanjai104/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjai104&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/sanjai104/Project_NM" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjai104&repo=Project_NM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
